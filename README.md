@@ -51,8 +51,8 @@ password-generator/
 ```
 
 ## Screenshots
-![Password Generator](![image](https://github.com/user-attachments/assets/80e292cc-4df2-4cec-8faa-949b2c42fb72)
-)
+![image](https://github.com/user-attachments/assets/2de2d460-62bd-4331-ba92-24d92f3bd857)
+
 
 
 
