@@ -1,8 +1,60 @@
-# React + Vite
+# Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A simple and efficient **Password Generator App** built with **React.js**. This app allows users to generate secure passwords with customizable length, numbers, and special characters. The generated password can be copied to the clipboard with a single click.
 
-Currently, two official plugins are available:
+## Features
+- ✅ Generate a **random password** based on user preferences.
+- ✅ Adjustable password **length** (8 to 100 characters).
+- ✅ Option to include **numbers (0-9)**.
+- ✅ Option to include **special characters (!@#$%^&*)**.
+- ✅ **Copy button** to quickly copy the password.
+- ✅ **Responsive UI** with a modern glassmorphism design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **React.js** - Frontend framework
+- **useState, useEffect, useCallback, useRef** - React Hooks
+- **CSS3** - Modern styling with responsiveness
+
+## Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/PrinceRaj1161/password-generator.git
+   cd password-generator
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Run the development server:
+   ```sh
+   npm start
+   ```
+4. Open `http://localhost:3000` in your browser.
+
+## Usage
+1. **Set password length** using the slider.
+2. **Enable/disable numbers & special characters** using checkboxes.
+3. **Click 'Copy'** to copy the generated password to the clipboard.
+
+## Folder Structure
+```
+password-generator/
+│── src/
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│── public/
+│── package.json
+│── README.md
+```
+
+## Screenshots
+![Password Generator](![image](https://github.com/user-attachments/assets/80e292cc-4df2-4cec-8faa-949b2c42fb72)
+)
+
+
+
+
+
