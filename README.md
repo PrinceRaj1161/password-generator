@@ -51,7 +51,9 @@ password-generator/
 ```
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/2de2d460-62bd-4331-ba92-24d92f3bd857)
+![image](https://github.com/user-attachments/assets/2de2d460-62bd-4331-ba92-24d92f3bd857)  
+
+Link: - https://password-generator-pi-gilt.vercel.app/
 
 
 
